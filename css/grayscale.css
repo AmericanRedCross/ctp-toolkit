@@ -261,12 +261,17 @@ a:focus {
     padding-top: 100px;
 }
 
-.toolkit-section {
+.light-section {
     width: 100%;
     padding: 50px 0;
     color: #000;
-    /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
     background-color: #f5f5f5;
+}
+
+.feedback-section {
+    width: 100%;
+    padding: 50px 0;
+    background: url(../img/feedback-1.jpg) no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -283,15 +288,11 @@ a:focus {
     .content-section {
         padding-top: 150px;
     }
-
-    .toolkit-section {
+    .toolkit-section, .feedback-section {
         padding: 100px 0;
     }
 
-    #map {
-        height: 400px;
-        margin-top: 250px;
-    }
+
 }
 
 .btn {
@@ -397,8 +398,75 @@ body {
   margin: 18px 0;
 }
 
+.supporter-logo{
+  max-height: 60px;
+  max-width: 100%;
+  margin-bottom: 12px;
+}
+.supporters-text h5 {
+  color: #ed1b2e;
+  text-transform: none;
+  margin: 6px 0;
+}
+
 @media(max-width:768px){
   .logos {
     margin-top: 0;
   }
+}
+
+.preparedness.btn-default {
+    border: 1px solid #9d9fa2;
+    color: #9d9fa2;
+}
+.preparedness.btn-default:hover,
+.preparedness.btn-default:focus {
+    border: 1px solid #9d9fa2;
+    background-color: #9d9fa2;
+}
+.assessment.btn-default {
+    border: 1px solid #f47d78;
+    color: #f47d78;
+}
+.assessment.btn-default:hover,
+.assessment.btn-default:focus {
+    border: 1px solid #f47d78;
+    background-color: #f47d78;
+}
+.response.btn-default {
+    border: 1px solid #c5e1b1;
+    color: #c5e1b1;
+}
+.response.btn-default:hover,
+.response.btn-default:focus {
+    border: 1px solid #c5e1b1;
+    background-color: #c5e1b1;
+}
+.implementation.btn-default {
+    border: 1px solid #9bd7d7;
+    color: #9bd7d7;
+}
+.implementation.btn-default:hover,
+.implementation.btn-default:focus {
+    border: 1px solid #9bd7d7;
+    background-color: #9bd7d7;
+}
+.evaluation.btn-default {
+    border: 1px solid #0079a7;
+    color: #0079a7;
+}
+.evaluation.btn-default:hover,
+.evaluation.btn-default:focus {
+    border: 1px solid #0079a7;
+    background-color: #0079a7;
+
+}
+.btn-module:hover,
+.btn-module:focus {
+  outline: 0;
+  color: #000;
+}
+
+.btn-module {
+  margin-bottom: 8px;
 }
