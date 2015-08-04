@@ -291,8 +291,12 @@ a:focus {
     .toolkit-section, .feedback-section {
         padding: 100px 0;
     }
+}
 
-
+@media(min-width:992px) {
+  .btn-resources {
+    height: 94px;
+  }
 }
 
 .btn {
@@ -415,6 +419,10 @@ body {
   }
 }
 
+@media (min-width:)
+
+
+
 .preparedness.btn-default {
     border: 1px solid #9d9fa2;
     color: #9d9fa2;
@@ -469,4 +477,15 @@ body {
 
 .btn-module {
   margin-bottom: 8px;
+  height: 70px;
+}
+.btn-resources {
+  white-space: normal;
+}
+.btn-resources small {
+  text-transform: none;
+}
+.img-resources {
+  height: 175px;
+  margin-bottom: 25px;
 }
