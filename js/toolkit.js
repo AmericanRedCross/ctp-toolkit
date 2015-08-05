@@ -1,5 +1,5 @@
 // build the page for the toolkit modules from a csv
-d3.csv("../data/toolkit-modules.csv", function(data){
+d3.csv("data/toolkit-modules.csv", function(data){
 
   var steps = [];
   var substeps = [];
