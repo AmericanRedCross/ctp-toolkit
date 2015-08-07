@@ -34,7 +34,7 @@
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
     <!-- Navigation -->
-    <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-custom navbar-main navbar-fixed-top" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
@@ -61,9 +61,30 @@
                     <li>
                         <a class="page-scroll" href="#feedback">Feedback</a>
                     </li>
-                    <li>
-                        <a class="page-scroll" href="#acknowledgement">Acknowledgement</a>
-                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Navigation for module section only -->
+    <nav class="navbar navbar-custom navbar-modules navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    Modules &nbsp; <i class="fa fa-bars"></i>
+                </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul id="navbar-modules-links" class="nav navbar-nav text-center">
+                    <li class="preparedness"><a class="nav-module-link page-scroll" href="#preparedness-section">Preparedness</a></li>
+                    <li class="assessment"><a class="nav-module-link page-scroll" href="#assessment-section" >Assessment</a></li>
+                    <li class="analysis"><a class="nav-module-link page-scroll" href="#analysis-section" >Response<br> Analysis</a></li>
+                    <li class="implementation"><a class="nav-module-link page-scroll" href="#implementation-section">Set-up &amp;<br>Implementation</a></li>
+                    <li class="evaluation"><a class="nav-module-link page-scroll" href="#evaluation-section">Monitoring<br>&amp; Evaluation</a></li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -102,6 +123,13 @@
                 <h2>About the Cash in Emergencies Toolkit</h2>
                 <p>Cash transfer based programming (CTP) is an effective and flexible way to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies. CTP includes all forms of cash and voucher-based assistance.</p>
                 <p>The Cash in Emergencies Toolkit has been devised by the International Red Cross and Red Crescent Movement as a mean to make tools, practical guidance and minimum standards easily accessible to field staff and volunteers. The toolkit should inform and guide CTP implementation, to improve the quality of CTP at the different phases of the project cycle.</p>
+                <div class="text-right">
+                  <div id="google_translate_element"></div><script type="text/javascript">
+                    function googleTranslateElementInit() {
+                      new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.VERTICAL, gaTrack: true, gaId: 'UA-66052109-1'}, 'google_translate_element');
+                    }
+                    </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+                </div>
             </div>
         </div>
     </section>
@@ -145,7 +173,7 @@
                 <div class="col-sm-6 col-md-4">
                     <img class="img-resources img-circle" src="img/modalities.jpg" alt="join">
                     <div class="caption">
-                      <p><a href="#" class="btn btn-lg btn-default btn-resources" role="button">Modalities <br><small>Cash for Work &amp; Vouchers Guidance</small></a></p>
+                      <p><a href="#" class="btn btn-lg btn-default btn-resources" role="button">Modalities <br><small>Cash for Work &amp; Vouchers Tools</small></a></p>
                     </div>
                   </div>
                 </div>
@@ -154,6 +182,7 @@
         </div> <!-- /light-section -->
     </section>
 
+    <section class="content-section text-center module-divider module-divider-1"></section>
 
     <!-- Toolkit Content -->
     <div id="content-toolkit">
@@ -171,6 +200,8 @@
         </div>
       </section>
 
+      <section class="content-section text-center module-divider module-divider-2"></section>
+
       <!-- Assessment Section -->
       <section id="assessment-section" class="content-section text-center light-section">
         <div class="light-section">
@@ -184,6 +215,8 @@
         </div>
       </section>
 
+      <section class="content-section text-center module-divider module-divider-3"></section>
+
       <!-- Response Analysis Section -->
       <section id="analysis-section" class="content-section text-center light-section">
         <div class="light-section">
@@ -196,6 +229,8 @@
         </div>
         </div>
       </section>
+
+      <section class="content-section text-center module-divider module-divider-4"></section>
 
       <!-- Set-up & Implementation Section -->
       <section id="implementation-section" class="content-section text-center light-section">
@@ -231,7 +266,7 @@
         <div class="container">
             <div class="col-lg-8 col-lg-offset-2">
                 <h2>Feedback</h2>
-                <p>The CiE Toolkit has been based on tools, guidance and experience both from within the Movement and from other humanitarian organisations.</p>
+                <p>The CiE Toolkit has been based on tools, guidance and experience both from within the International Red Cross and Red Crescent Movement and from other humanitarian organisations.</p>
                 <p>Suggestions for improvement of tools are welcome and shall inform the periodic update of the Toolkit.</p>
                 <a href="#" class="btn btn-default btn-lg"><i class="fa fa-comment-o fa-fw"></i> Feedback Form</a>
             </div>
@@ -286,6 +321,18 @@
 
     <!-- page build JavaScript -->
     <script src="js/toolkit.js"></script>
+
+    <!-- Google analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-66052109-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
 
 
 </body>

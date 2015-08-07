@@ -114,7 +114,7 @@ a:focus {
     outline: 0;
 }
 
-.navbar-custom .nav li.active a {
+.navbar-main .nav li.active a {
     background-color: rgba(255,255,255,.3);
 }
 
@@ -464,7 +464,6 @@ body {
 .btn-evaluation:focus {
     border: 1px solid #0079a7;
     background-color: #0079a7;
-
 }
 .btn-module:hover,
 .btn-module:focus {
@@ -485,4 +484,122 @@ body {
 .img-resources {
   height: 175px;
   margin-bottom: 25px;
+}
+
+
+.substep-name {
+    margin: 0 0 6px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+@media(min-width:768px) {
+    .substep-name {
+        margin: 0 0 12px;
+        font-size: 18px;
+        line-height: 1.6;
+    }
+}
+a.substep-name {
+    color: #000;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+a.substep-name:hover,
+a.substep-name:focus {
+    text-decoration: none;
+    color: #ed1b2e;
+}
+
+
+.document-link {
+  margin-bottom: 10px
+}
+.document-link a {
+    color: #000;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+.document-link a:hover,
+.document-link a:focus {
+    text-decoration: none;
+    color: #ed1b2e;
+}
+
+.well-documents {
+  box-shadow: none;
+}
+
+
+.navbar-modules {
+  top: 50px;
+  display: none;
+}
+.navbar-modules a {
+  text-transform: none;
+  font-size: 12px;
+  padding: 5px 15px !important;
+  height: 50px;
+}
+#navbar-modules-links li.active a {
+  color: #000;
+}
+
+li.preparedness.active {
+    background-color: #9d9fa2;
+}
+li.assessment.active {
+    background-color: #f47d78;
+}
+li.analysis.active {
+    background-color: #c5e1b1;
+}
+li.implementation.active {
+    background-color: #9bd7d7;
+}
+li.evaluation.active {
+    background-color: #0079a7;
+}
+
+
+
+
+.module-divider-1 {
+  background: url(../img/divider-1.jpg) no-repeat bottom center fixed;
+}
+.module-divider-2 {
+  background: url(../img/divider-2.jpg) no-repeat bottom center fixed;
+}
+.module-divider-3 {
+  background: url(../img/divider-3.jpg) no-repeat bottom center fixed;
+}
+.module-divider-4 {
+  background: url(../img/divider-4.jpg) no-repeat bottom center fixed;
+}
+.module-divider {
+    width: 100%;
+    height: 400px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
+
+
+
+select.goog-te-combo {
+  background-color: #000;
+}
+/* move bar for google translated page to bottom of page */
+body {
+  top: 0 !important;
+}
+.goog-te-banner-frame {
+  top: auto !important;
+  bottom: 0px;
+  box-shadow: none !important;
+  border-top: 1px solid #999999 !important;
 }
