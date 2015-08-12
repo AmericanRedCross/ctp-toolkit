@@ -580,6 +580,12 @@ li.evaluation.active {
 .module-divider-4 {
   background: url(../img/divider-4.jpg) no-repeat bottom center fixed;
 }
+.module-divider-5 {
+  background: url(../img/divider-5.jpg) no-repeat bottom center fixed;
+}
+.module-divider-6 {
+  background: url(../img/divider-6.jpg) no-repeat bottom center fixed;
+}
 .module-divider {
     width: 100%;
     height: 400px;
