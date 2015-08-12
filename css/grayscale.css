@@ -531,6 +531,9 @@ a.substep-name:focus {
   box-shadow: none;
 }
 
+.createdby {
+  height: 50px;
+}
 
 .navbar-modules {
   top: 50px;
