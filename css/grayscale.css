@@ -511,6 +511,10 @@ a.substep-name:focus {
     color: #ed1b2e;
 }
 
+.substepbox {
+  text-align: left;
+}
+
 
 .document-link {
   margin-bottom: 10px

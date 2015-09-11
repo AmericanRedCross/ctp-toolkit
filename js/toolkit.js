@@ -28,7 +28,7 @@ function buildModuleSections(){
 
     $.each(data,function(index, item){
       if($.inArray(item["sub-no"], substeps) === -1){
-        var substepHtml = '<div id="' + item["sub-no"] + '">' +
+        var substepHtml = '<div id="' + item["sub-no"] + '" class="substepbox">' +
             '<a class="substep-name" role="button" data-toggle="collapse" href="#well-' + item["sub-no"] + '" aria-expanded="false" aria-controls="well-' + item["sub-no"] + '">' + item["sub"] + '</a>' +
             '<div class="collapse" id="well-' + item["sub-no"] + '">' +
               '<div class="well well-documents">' +
