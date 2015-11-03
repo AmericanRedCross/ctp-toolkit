@@ -11,13 +11,13 @@ function buildModuleSections(){
                 item["title"] + ' &nbsp; <i class="fa fa-plus-square-o"></i>' +
               '</a>' +
             '</h4>' +
-            '<div id="links-' + item["m-s-ss"] + '" class="links-group">' +
-            // step level document links go here
-            '</div>' +
           '</div>' +
           '<div id="collapse-' + item["m-s-ss"] + '" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-' + item["m-s-ss"] + '" aria-expanded="false" style="height: 0px;">' +
             '<div class="panel-body">' +
-            // list of substeps goes here
+              '<div id="links-' + item["m-s-ss"] + '" class="links-group">' +
+              // step level document links go here
+              '</div>' +
+              // list of substeps goes here
             '</div>' +
           '</div>' +
         '</div>';
