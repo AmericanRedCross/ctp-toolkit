@@ -47,27 +47,32 @@ function buildDocumentLinks(){
   d3.csv("data/toolkit-documents.csv", function(data){
 
     $.each(data,function(index, item){
-        var documentHtml = '<div class="document-link" >' +
-        '<a href="https://github.com/AmericanRedCross/ctp-toolkit-documents/raw/master/' +
-        encodeURI(item["file"]) + '" download>' + item["title"] +
-        ' &nbsp; ';
-        switch (item["format"]) {
-          case 'pdf':
-            documentHtml += '<i class="fa fa-file-pdf-o"></i>';
-            break;
-          case 'word':
-            documentHtml += '<i class="fa fa-file-word-o"></i>';
-            break;
-          case 'excel':
-            documentHtml += '<i class="fa fa-file-excel-o"></i>';
-            break;
-          case 'ppt':
-            documentHtml += '<i class="fa fa-file-powerpoint-o"></i>';
-            break;
-          default:
-            break;
+        var documentHtml = '<div class="document-link" >';
+        if(item["file"] === 'under development'){
+          documentHtml += '<div>' + item["title"] + ' [under development]</div>';
+        } else {
+          documentHtml += '<a href="https://github.com/AmericanRedCross/ctp-toolkit-documents/raw/master/' +
+          encodeURI(item["file"]) + '" download>' + item["title"] +
+          ' &nbsp; ';
+          switch (item["format"]) {
+            case 'pdf':
+              documentHtml += '<i class="fa fa-file-pdf-o"></i>';
+              break;
+            case 'word':
+              documentHtml += '<i class="fa fa-file-word-o"></i>';
+              break;
+            case 'excel':
+              documentHtml += '<i class="fa fa-file-excel-o"></i>';
+              break;
+            case 'ppt':
+              documentHtml += '<i class="fa fa-file-powerpoint-o"></i>';
+              break;
+            default:
+              break;
+          }
+          documentHtml +='</a>';
         }
-        documentHtml +='</a></div>';
+        documentHtml += '</div>';
         var selector = "#links-" + item["m-s-ss-d"].substring(0,6);
         $(selector).append(documentHtml);
 
