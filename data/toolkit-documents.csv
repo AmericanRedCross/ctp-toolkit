@@ -1,12 +1,211 @@
-sub-no,doc-name
-m1s1ss01,This will link to a document 1
-m1s1ss01,This will link to a document 2
-m1s1ss01,This will link to a document 3
-m1s1ss02,This will link to a document 4
-m1s1ss02,This will link to a document 5
-m1s1ss02,This will link to a document 6
-m1s1ss02,This will link to a document 7
-m1s1ss03,This will link to a document 8
-m1s1ss03,This will link to a document 9
-m1s1ss03,This will link to a document 10
-m1s1ss03,This will link to a document 11
+module,step,sub-step,doc,m-s-ss-d,title,type,format,file
+m1,s0,ss00,d00,1-0-00-00,Module 1 Preparedness Guide,GUIDANCE,pdf,1. Module 1 Preparedness/Module 1 Guide.pdf
+m1,s0,ss00,d01,1-0-00-01,Roadmap for preparedness,ROADMAP,word,1. Module 1 Preparedness/1 Roadmap for preparedness.docx
+m1,s1,ss00,d01,1-1-00-01,Roadmap for preparing and analysing,ROADMAP,word,1. Module 1 Preparedness/1 Prepare and analyze/1 Roadmap.docx
+m1,s1,ss00,d02,1-1-00-02,CTP Guidelines for mainstream and preparedness stage 1,GUIDANCE,pdf,1. Module 1 Preparedness/1 Prepare and analyze/1.a CTP Preparedness guidance-stage 1.pdf
+m1,s1,ss01,d01,1-1-01-01,Secondary data sources,GUIDANCE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_1_1 Secondary data sources.docx
+m1,s1,ss02,d01,1-1-02-01,Key stakeholders matrix template,TEMPLATE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_1 Key stakeholders matrix template.docx
+m1,s1,ss02,d02,1-1-02-02,Baseline interviews checklist,CHECKLIST,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_2 Baseline interviews checklist.docx
+m1,s1,ss02,d03,1-1-02-03,CTP 4Ws matrix template,TEMPLATE,excel,1. Module 1 Preparedness/1 Prepare and analyze/1_2_3 CTP 4Ws matrix template.xls
+m1,s1,ss02,d04,1-1-02-04,Priority needs calculation template,TEMPLATE,excel,1. Module 1 Preparedness/1 Prepare and analyze/1_2_4 Priority needs calculation template.xlsx
+m1,s1,ss02,d05,1-1-02-05,Baseline market information checklist,CHECKLIST,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_5 Baseline market information checklist.docx
+m1,s1,ss02,d06,1-1-02-06,Financial service provider baseline checklist,CHECKLIST,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_6 FSP baseline checklist.docx
+m1,s1,ss02,d07,1-1-02-07,Mapping service providers template,TEMPLATE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_7 Mapping service providers template.docx
+m1,s1,ss02,d08,1-1-02-08,Roadmap for CTP risk analysis,ROADMAP,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_8 Roadmap for CTP risk analysis.docx
+m1,s1,ss02,d09,1-1-02-09,Risk management checklist (IFRC CBP SOP),CHECKLIST,word,1. Module 1 Preparedness/1 Prepare and analyze/1_2_9  IFRC SOPs Risk management checklist.docx
+m1,s1,ss03,d01,1-1-03-01,Baseline report template,TEMPLATE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_3_1 Baseline report template.docx
+m1,s1,ss04,d01,1-1-04-01,Selecting scenarios,GUIDANCE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_4_1 Selecting scenarios.docx
+m1,s1,ss04,d02,1-1-04-02,Scenario development template,TEMPLATE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_4_2 Scenario development template.docx
+m1,s1,ss05,d01,1-1-05-01,Preparedness workshop checklist,CHECKLIST,word,1. Module 1 Preparedness/1 Prepare and analyze/1_5_1 Preparedness workshop checklist.docx
+m1,s1,ss05,d02,1-1-05-02,CTP awareness presentation template,TEMPLATE,ppt,1. Module 1 Preparedness/1 Prepare and analyze/1_5_2 CTP awareness presentation template.ppt
+m1,s1,ss05,d03,1-1-05-03,Preparedness SWOT template,TEMPLATE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_5_3 Preparedness SWOT template.docx
+m1,s1,ss06,d01,1-1-06-01,CTP preparedness self-assessment template,TEMPLATE,word,1. Module 1 Preparedness/1 Prepare and analyze/1_6_1 CTP preparedness self-assessment template.docx
+m1,s1,ss06,d02,1-1-06-02,CTP self-assessment scoring template,TEMPLATE,excel,1. Module 1 Preparedness/1 Prepare and analyze/1_6_2 CTP self-assessment scoring template.xlsx
+m1,s1,ss07,d01,1-1-07-01,Advocacy process summary table,GUIDANCE,pdf,1. Module 1 Preparedness/1 Prepare and analyze/1_7_1 Advocacy process summary table.pdf
+m1,s2,ss00,d01,1-2-00-01,Roadmap for developing and implementing,ROADMAP,word,1. Module 1 Preparedness/2 Develop and implement/2 Roadmap.docx
+m1,s2,ss00,d02,1-2-00-02,CTP Guidelines for mainstream and preparedness stage 2,GUIDANCE,pdf,1. Module 1 Preparedness/2 Develop and implement/2.a CTP Preparedness guidance-stage 2.pdf
+m1,s2,ss01,d01,1-2-01-01,ToRs CTP focal point template,TEMPLATE,word,1. Module 1 Preparedness/2 Develop and implement/2_1_1 ToR CTP focal point template.docx
+m1,s2,ss02,d01,1-2-02-01,CTP TWG Key responsibilities,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_2_1 CTP TWG key responsibilities.docx
+m1,s2,ss03,d01,1-2-03-01,CTP Preparedness PoA template,TEMPLATE,excel,1. Module 1 Preparedness/2 Develop and implement/2_3_1 CTP preparedness PoA template.xlsx
+m1,s2,ss04,d01,1-2-04-01,CTP SOPs template,TEMPLATE,word,1. Module 1 Preparedness/2 Develop and implement/2_4_1 CTP SOPs Template.docx
+m1,s2,ss04,d02,1-2-04-02,IFRC CBP SOPs,GUIDANCE,pdf,1. Module 1 Preparedness/2 Develop and implement/2_4_2 IFRC CBP SOPs_EN.docx
+m1,s2,ss04,d03,1-2-04-03,SOPs presentation template,TEMPLATE,ppt,1. Module 1 Preparedness/2 Develop and implement/2_4_3 SOPs presentation template.ppt
+m1,s2,ss05,d01,1-2-05-01,IFRC Developing a contingency plan ,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_5_1 IFRC developing a contingency plan.docx
+m1,s2,ss06,d01,1-2-06-01,Capacity building plan template,TEMPLATE,excel,1. Module 1 Preparedness/2 Develop and implement/2_6_1 Capacity building plan template.xlsx
+m1,s2,ss06,d02,1-2-06-02,ICRC Ecosec technical competencies,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_6_2 ICRC EcoSec technical competencies.docx
+m1,s2,ss06,d03,1-2-06-03,RCRCM CTP Competency framework,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_6_3 RCRCM CTP competency framework.docx
+m1,s2,ss07,d01,1-2-07-01,Roadmap SP selection and contracting,ROADMAP,word,1. Module 1 Preparedness/2 Develop and implement/2_7_1  Roadmap SP selection and contracting.docx
+m1,s2,ss07,d02,1-2-07-02,SP Scope of work template,TEMPLATE,word,1. Module 1 Preparedness/2 Develop and implement/2_7_2 SP Scope of work template.docx
+m1,s2,ss07,d03,1-2-07-03,IFRC standard contract template,TEMPLATE,word,1. Module 1 Preparedness/2 Develop and implement/2_7_3 IFRC standard contract template.docx
+m1,s2,ss08,d01,1-2-08-01,Roadmap for CTP M&E planning,ROADMAP,word,1. Module 1 Preparedness/2 Develop and implement/2_8_1 Roadmap for CTP M&E planning.docx
+m1,s2,ss09,d01,1-2-09-01,Donor mapping matrix template,TEMPLATE,word,1. Module 1 Preparedness/2 Develop and implement/2_9_1 Donor mapping matrix template.docx
+m1,s2,ss10,d01,1-2-10-01,Simulation scripts template,TEMPLATE,word,Tool under development
+m1,s2,ss10,d02,1-2-10-02,Simulation training guide,GUIDANCE,word,Tool under development
+m1,s2,ss11,d01,1-2-11-01,Mapping PNS competencies template,TEMPLATE,excel,1. Module 1 Preparedness/2 Develop and implement/2_11_1 Mapping PNS competencies template.xlsx
+m1,s2,ss11,d02,1-2-11-02,Managing coordination meetings,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_11_2 Managing coordination meetings.doc
+m1,s2,ss11,d03,1-2-11-03,Soft coordination issues,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_11_3 Soft coordination issues.doc
+m1,s2,ss12,d01,1-2-12-01,RCRCM CTP FAQs,GUIDANCE,word,1. Module 1 Preparedness/2 Develop and implement/2_12_1 RCRCM CTP FAQs.docx
+m1,s2,ss12,d02,1-2-12-02,Roadmap for BCA,ROADMAP,word,1. Module 1 Preparedness/2 Develop and implement/2_12_2 Roadmap for BCA.docx
+m1,s3,ss00,d01,1-3-00-01,"Roadmap for reviewing, learning and improving",ROADMAP,word,"1. Module 1 Preparedness/3 Review, learn and improve/3 Roadmap.docx"
+m1,s3,ss00,d02,1-3-00-02,CTP Guidelines for mainstream and preparedness stage 3,GUIDANCE,pdf,"1. Module 1 Preparedness/3 Review, learn and improve/3.a CTP Preparedness guidance-stage 3.pdf"
+m1,s3,ss01,d01,1-3-01-01,Monthly progress report template,TEMPLATE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_1_1 Monthly progress report template.docx"
+m1,s3,ss02,d01,1-3-02-01,Organizing lessons-learned workshop,GUIDANCE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_2_1 Organizing lessons learned workshop.docx"
+m1,s3,ss02,d02,1-3-02-02,CTP Preparedness end of project report template,TEMPLATE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_2_2 CTP preparedness end of project report.doc"
+m1,s3,ss02,d02,1-3-02-02,CTP Preparedness evaluation ToR template,TEMPLATE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_3_2 CTP preparedness evaluation ToR template.docx"
+m1,s3,ss03,d01,1-3-03-01,Roadmap for CTP evaluation,ROADMAP,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_3_1 Roadmap for CTP evaluation.docx"
+m1,s3,ss04,d01,1-3-04-01,IFRC CTP case study template,TEMPLATE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_4_1 IFRC CTP case study template.docx"
+m1,s3,ss04,d02,1-3-04-02,IFRC CTP factsheet template,TEMPLATE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_4_2 IFRC CTP factsheet  template.docx"
+m1,s3,ss04,d03,1-3-04-03,ICRC case study template,TEMPLATE,word,"1. Module 1 Preparedness/3 Review, learn and improve/3_4_3 ICRC case study template.docx"
+m2,s0,ss00,d00,2-0-00-00,Module 2 Assessment Guide,GUIDANCE,pdf,2. Module 2 Assessment/Module 2 Guide.pdf
+m2,s0,ss00,d01,2-0-00-01,Roadmap for assessment,ROADMAP,word,2. Module 2 Assessment/3 Rapid market assessment/3 Roadmap.docx
+m2,s1,ss00,d01,2-1-00-01,Roadmap for planning and preparation,ROADMAP,word,2. Module 2 Assessment/1 Plan & prepare/1 Roadmap.docx
+m2,s1,ss01,d01,2-1-01-01,Initial decision checklist,CHECKLIST,word,2. Module 2 Assessment/1 Plan & prepare/1_1_1 Initial decision checklist.docx
+m2,s1,ss02,d01,2-1-02-01,Assessment tools summary table,GUIDANCE,word,2. Module 2 Assessment/1 Plan & prepare/1_2_1 Assessment tools summary table.docx
+m2,s1,ss03,d01,2-1-03-01,Data collection planning,GUIDANCE,word,2. Module 2 Assessment/1 Plan & prepare/1_3_1 Data collection planning.docx
+m2,s1,ss03,d02,2-1-03-02,Secondary data sources,GUIDANCE,word,2. Module 2 Assessment/1 Plan & prepare/1_3_2 Secondary data sources.docx
+m2,s1,ss04,d01,2-1-04-01,Key stakeholders matrix template,TEMPLATE,word,2. Module 2 Assessment/1 Plan & prepare/1_4_1 Key stakeholders matrix template.docx
+m2,s1,ss04,d02,2-1-04-02,Local authorities interview checklist,CHECKLIST,word,2. Module 2 Assessment/1 Plan & prepare/1_4_2 Local authorities interview checklist.docx
+m2,s1,ss04,d03,2-1-04-03,Humanitarian actors interview checklist,CHECKLIST,word,2. Module 2 Assessment/1 Plan & prepare/1_4_3 Humanitarian agencies interview checklist.docx
+m2,s1,ss04,d04,2-1-04-04,CTP 4Ws matrix template,TEMPLATE,excel,2. Module 2 Assessment/1 Plan & prepare/1_4_4 CTP 4Ws matrix template.xlsx
+m2,s2,ss00,d01,2-2-00-01,Roadmap for cash-sensitive community assessment ,ROADMAP,word,2. Module 2 Assessment/2 Community/2 Roadmap.docx
+m2,s2,ss01,d01,2-2-01-01,Community level cash questions template,TEMPLATE,word,2. Module 2 Assessment/2 Community/2_1_1 Community level cash questions template.docx
+m2,s2,ss01,d02,2-2-01-02,Household level cash questions template,TEMPLATE,word,2. Module 2 Assessment/2 Community/2_1_2 Household level cash questions template.docx
+m2,s2,ss02,d01,2-2-02-01,Community access to markets template,TEMPLATE,word,2. Module 2 Assessment/2 Community/2_2_1  Community access to markets template.docx
+m2,s2,ss02,d02,2-2-02-02,Communicy access to and use of financial services template,TEMPLATE,word,2. Module 2 Assessment/2 Community/2_2_2  Community access to FS template.docx
+m2,s2,ss03,d01,2-2-03-01,Priority needs calculation template,TEMPLATE,excel,2. Module 2 Assessment/2 Community/2_3_1 Priority needs calculation template.xlsx
+m2,s2,ss04,d01,2-2-04-01,Community assessment report template,GUIDANCE,word,2. Module 2 Assessment/2 Community/2_4_1 Community assessment report template.docx
+m2,s3,ss00,d01,2-3-00-01,Roadmap for rapid market assessment,ROADMAP,word,2. Module 2 Assessment/2 Roadmap for assessment.docx
+m2,s3,ss01,d01,2-3-01-01,Drawing market maps,GUIDANCE,word,2. Module 2 Assessment/3 Rapid market assessment/3_1_1 Drawing market maps.docx
+m2,s3,ss01,d02,2-3-01-02,Key markets template,TEMPLATE,word,2. Module 2 Assessment/3 Rapid market assessment/3_1_2 Key markets template.docx
+m2,s3,ss01,d03,2-3-01-03,Information for market assessment,GUIDANCE,word,2. Module 2 Assessment/3 Rapid market assessment/3_1_3 Information for market assessment.docx
+m2,s3,ss02,d01,2-3-02-01,Discussion with market representatives template,TEMPLATE,word,2. Module 2 Assessment/3 Rapid market assessment/3_2_1 Discussion with market representatives template.docx
+m2,s3,ss02,d02,2-3-02-02,Discussions with traders template,TEMPLATE,word,2. Module 2 Assessment/3 Rapid market assessment/3_2_2 Discussion with traders template.docx
+m2,s3,ss02,d03,2-3-02-03,Summary of findings per market template,TEMPLATE,word,2. Module 2 Assessment/3 Rapid market assessment/3_2_3  Summary of findings per marketplace template.docx
+m2,s3,ss02,d04,2-3-02-04,Traders in voucher programmes checklist,CHECKLIST,word,2. Module 2 Assessment/3 Rapid market assessment/3_2_4 Traders in voucher programmes checklist.docx
+m2,s3,ss03,d01,2-3-03-01,Conclusion tree to assess market response capacity,GUIDANCE,word,2. Module 2 Assessment/3 Rapid market assessment/3_3_1 Conclusion tree to assess market response capacity.docx
+m2,s3,ss03,d02,2-3-03-02,Market assessment report template,TEMPLATE,word,2. Module 2 Assessment/3 Rapid market assessment/3_3_2 Market assessment report template.docx
+m2,s4,ss00,d01,2-4-00-01,"Roadmap for service providers: capacity, organizational capacity and risk analysis",ROADMAP,,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4  Roadmap.docx"
+m2,s4,ss01,d01,2-4-01-01,Assessing financial services: topics and sources,TEMPLATE,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_1_1 Assessing FS topics and sources template.xlsx"
+m2,s4,ss01,d02,2-4-01-02,Assess service providers capacity checklist,CHECKLIST,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_1_2 Assess FSP capacity checklist.docx"
+m2,s4,ss01,d03,2-4-01-03,Mapping service providers template,TEMPLATE,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_1_3 Mapping service providers template.docx"
+m2,s4,ss02,d01,2-4-02-01,CTP Preparedness self-assessment template,TEMPLATE,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_2_1 CTP preparedness self-assessment template.docx"
+m2,s4,ss03,d01,2-4-03-01,Roadmap for risk analysis,ROADMAP,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_3_1 Roadmap for CTP risk analysis.docx"
+m2,s4,ss03,d02,2-4-03-02,Risk management checklist (IFRC CBP SOP),CHECKLIST,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_3_2 IFRC SOPs Risk management checklist.docx"
+m3,s0,ss00,d00,3-0-00-00,Module 3 Response Analysis Guide,GUIDANCE,pdf,3. Module 3 Response Analysis/Module 3 Guide.pdf
+m3,s0,ss00,d01,3-0-00-01,Roadmap for response analysis ,ROADMAP,word,3. Module 3 Response Analysis/3 Roadmap for response analysis.docx
+m3,s1,ss00,d01,3-1-00-01,"Roadmap for cash feasibility, modality & mechanism selection",ROADMAP,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1 Roadmap.docx"
+m3,s1,ss01,d01,3-1-01-01,Cash intervention options,GUIDANCE,excel,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_1_1 Cash intervention options.xlsx"
+m3,s1,ss02,d01,3-1-02-01,Is cash feasible checklist,CHECKLIST,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_2_1 Is cash feasible checklist.docx"
+m3,s1,ss03,d01,3-1-03-01,Comparing CTP modality and mechanism,GUIDANCE,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_3_1 Comparing CTP modality & mechanism.docx"
+m3,s1,ss03,d02,3-1-03-02,Advantages & disadvantages of CTP modalities,GUIDANCE,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_3_2 Advantages disadvantages CTP modalities.docx"
+m3,s1,ss03,d03,3-1-03-03,Advantages & disadvantages of CTP mechanisms,GUIDANCE,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_3_3 Advantages & disadvantages CTP mechanisms.docx"
+m3,s1,ss04,d01,3-1-04-01,Roadmap for CTP risk analysis,ROADMAP,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_4_1 Roadmap for CTP risk analysis.docx"
+m3,s1,ss04,d02,3-1-04-02,CTP Risk matrix template,TEMPLATE,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_4_2 CTP Risk matrix template.docx"
+m3,s1,ss04,d03,3-1-04-03,CTP Risk register template,TEMPLATE,excel,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_4_3 CTP Risk register template.xlsx"
+m3,s1,ss05,d01,3-1-05-01,Cost efficiency calculation template,TEMPLATE,excel,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_5_1 Cost-efficiency calculation template.xlsx"
+m3,s1,ss06,d01,3-1-06-01,Decision making matrix template,TEMPLATE,word,"3. Module 3 Response Analysis/1 Feasibility, modality and mechanism/1_6_1 Decision making matrix template.xlsx"
+m3,s2,ss00,d01,3-2-00-01,Roadmap for decisions on the value and frequency of the transfer ,ROADMAP,word,3. Module 3 Response Analysis/2 Transfer value/2 Roadmap.docx
+m3,s2,ss01,d01,3-2-01-01,Transfer value calculation template,TEMPLATE,excel,3. Module 3 Response Analysis/2 Transfer value/2_1_1 Transfer value calculation template.xlsx
+m3,s2,ss01,d02,3-2-01-02,What to consider when setting the value of the transfer,GUIDANCE,word,3. Module 3 Response Analysis/2 Transfer value/2_1_2 What to consider when setting value.docx
+m3,s2,ss02,d01,3-2-02-01,Adjust value to household size,GUIDANCE,word,3. Module 3 Response Analysis/2 Transfer value/2_2_1 Adjust value to HH size.docx
+m3,s2,ss02,d02,3-2-02-02,Adjust value to price changes,GUIDANCE,word,3. Module 3 Response Analysis/2 Transfer value/2_2_2 Adjust value to price changes.docx
+m3,s3,ss00,d01,3-3-00-01,Roadmap for decisions on targeting ,ROADMAP,word,3. Module 3 Response Analysis/3 Targeting/3 Roadmap.docx
+m3,s3,ss01,d01,3-3-01-01,Geographic targeting template,TEMPLATE,word,3. Module 3 Response Analysis/3 Targeting/3_1_1 Geographic targeting template.docx
+m3,s3,ss01,d02,3-3-01-02,Urban vulnerability mapping,GUIDANCE,word,3. Module 3 Response Analysis/3 Targeting/3_1_2 Urban vulnerability mapping.docx
+m3,s3,ss02,d01,3-3-02-01,Targeting criteria,GUIDANCE,word,3. Module 3 Response Analysis/3 Targeting/3_2_1 Targeting criteria.docx
+m3,s3,ss02,d02,3-3-02-02,Targeting mechanism,GUIDANCE,word,3. Module 3 Response Analysis/3 Targeting/3_2_2 Targeting mechanism.docx
+m4,s0,ss00,d00,4-0-00-00,Module 4 Implementation Guide,GUIDANCE,pdf,4. Module 4 Implementation/Module 4 Guide.pdf
+m4,s0,ss00,d01,4-0-00-01,Roadmap for set-up and implementation,ROADMAP,word,4. Module 4 Implementation/4 Roadmap for implementation.docx
+m4,s1,ss00,d01,4-1-00-01,Roadmap for CTP set-up,ROADMAP,word,4. Module 4 Implementation/1 Setup/1 Roadmap.docx
+m4,s1,ss01,d01,4-1-01-01,CTP Ops PoA template,TEMPLATE,word,4. Module 4 Implementation/1 Setup/1_1_1 CTP Ops PoA template.docx
+m4,s1,ss01,d02,4-1-01-02,Logical Framework template,TEMPLATE,word,4. Module 4 Implementation/1 Setup/1_1_2 Logical framework template.doc
+m4,s1,ss01,d03,4-1-01-03,IFRC Budget template,TEMPLATE,excel,4. Module 4 Implementation/1 Setup/1_1_3 Budget template.xlsx
+m4,s1,ss01,d04,4-1-01-04,CTP Workplan template,TEMPLATE,excel,4. Module 4 Implementation/1 Setup/1_1_4 CTP Workplan template.xlsx
+m4,s1,ss02,d01,4-1-02-01,CTP internal coordination,GUIDANCE,word,4. Module 4 Implementation/1 Setup/1_2_1 CTP internal coordination.docx
+m4,s1,ss03,d01,4-1-03-01,Key elements of CTP coordination,GUIDANCE,word,4. Module 4 Implementation/1 Setup/1_3_1 Key elements CTP coordination.docx
+m4,s1,ss03,d02,4-1-03-02,Responsibilities of cash coordination groups,GUIDANCE,word,4. Module 4 Implementation/1 Setup/1_3_2 Responsibilities cash coordination groups.docx
+m4,s1,ss03,d03,4-1-03-03,CTP 4Ws matrix template,TEMPLATE,excel,4. Module 4 Implementation/1 Setup/1_3_3 CTP 4Ws matrix template.xlsx
+m4,s2,ss00,d01,4-2-00-01,Roadmap to beneficiary communication and accountability ,ROADMAP,word,4. Module 4 Implementation/2 BCA/2 Roadmap.docx
+m4,s2,ss01,d01,4-2-01-01,BCA plan template,TEMPLATE,word,4. Module 4 Implementation/2 BCA/2_1_1 BCA plan template.docx
+m4,s2,ss02,d01,4-2-02-01,BCA building blocks,GUIDANCE,ppt,4. Module 4 Implementation/2 BCA/2_2_1 BCA building blocks.pptx
+m4,s2,ss02,d02,4-2-02-02,Ten comms rules,GUIDANCE,word,4. Module 4 Implementation/2 BCA/2_2_2 Ten coms rules.docx
+m4,s2,ss03,d01,4-2-03-01,Select comms options,GUIDANCE,word,4. Module 4 Implementation/2 BCA/2_3_1 Select coms options.docx
+m4,s2,ss04,d01,4-2-04-01,CTP BCA Key Information checklist,CHECKLIST,word,4. Module 4 Implementation/2 BCA/2_4_1 CTP BCA information checklist.docx
+m4,s2,ss04,d02,4-2-04-02,Beneficiary communication flyer template,TEMPLATE,word,4. Module 4 Implementation/2 BCA/2_4_2 Beneficiary coms flyer template.doc
+m4,s2,ss04,d03,4-2-04-03,FAQs on CTP template,TEMPLATE,word,4. Module 4 Implementation/2 BCA/2_4_3 FAQs on CTP template.docx
+m4,s2,ss04,d04,4-2-04-04,RCRCM CTP FAQs,GUIDANCE,word,4. Module 4 Implementation/2 BCA/2_4_4 RCRCM CTP FAQs.docx
+m4,s2,ss05,d01,4-2-05-01,Feedback and complaint key elements,GUIDANCE,word,4. Module 4 Implementation/2 BCA/2_5_1 Feedback and complaint key elements.docx
+m4,s2,ss05,d02,4-2-05-02,Feedback and complaint form template,TEMPLATE,word,4. Module 4 Implementation/2 BCA/2_5_2 Feedback and complaint form template.docx
+m4,s2,ss05,d03,4-2-05-03,Feedback and complaint procedures,GUIDANCE,word,4. Module 4 Implementation/2 BCA/2_5_3 Feedback and complaint procedures.docx
+m4,s2,ss06,d01,4-2-06-01,Comms approach review checklist,CHECKLIST,word,4. Module 4 Implementation/2 BCA/2_6_1 Coms approach review checklist.docx
+m4,s3,ss00,d01,4-3-00-01,Roadmap for CTP service provider selection and contracting ,ROADMAP,word,4. Module 4 Implementation/3 Service provider/3 Roadmap.docx
+m4,s3,ss01,d01,4-3-01-01,Mobile money requirements checklist,CHECKLIST,word,4. Module 4 Implementation/3 Service provider/3_1_1 Mobile money requirements checklist.docx
+m4,s3,ss01,d02,4-3-01-02,Value card requirements checklist,CHECKLIST,word,4. Module 4 Implementation/3 Service provider/3_1_2 Value card requirements checklist.docx
+m4,s3,ss01,d03,4-3-01-03,E-transfer requirements checklist,CHECKLIST,word,4. Module 4 Implementation/3 Service provider/3_1_3 E-transfer requirements checklist.docx
+m4,s3,ss01,d04,4-3-01-04,Assessing mobile money checklist,CHECKLIST,word,4. Module 4 Implementation/3 Service provider/3_1_4 Assessing mobile money checklist.docx
+m4,s3,ss01,d05,4-3-01-05,Assessing service providers checklist,CHECKLIST,word,4. Module 4 Implementation/3 Service provider/3_1_5 Assessing service providers checklist.docx
+m4,s3,ss02,d01,4-3-02-01,Service provider scope of work template,TEMPLATE,word,4. Module 4 Implementation/3 Service provider/3_2_1 SP Scope of work template.docx
+m4,s3,ss03,d01,4-3-03-01,IFRC standard contract template,TEMPLATE,word,4. Module 4 Implementation/3 Service provider/3_3_1 IFRC Standard contract template.docx
+m4,s3,ss03,d02,4-3-03-02,Contract requirements e-transfer checklist,CHECKLIST,word,4. Module 4 Implementation/3 Service provider/3_3_2 Contract requirements e-tranfer checklist.docx
+m4,s3,ss04,d01,4-3-04-01,CTP Data protection principles,GUIDANCE,word,4. Module 4 Implementation/3 Service provider/3_4_1 CTP Data protection principles.docx
+m4,s3,ss04,d02,4-3-04-02,Data protection clause template,TEMPLATE,word,4. Module 4 Implementation/3 Service provider/3_4_2 Data protection clause template.pdf
+m4,s4,ss00,d01,4-4-00-01,Roadmap for registration and identification ,ROADMAP,word,4. Module 4 Implementation/4 Registration/4 Roadmap.docx
+m4,s4,ss01,d01,4-4-01-01,Distribution ticket template,TEMPLATE,pdf,4. Module 4 Implementation/4 Registration/4_1_1 Distribution ticket template.pdf
+m4,s4,ss01,d02,4-4-01-02,Beneficiary list template,TEMPLATE,excel,4. Module 4 Implementation/4 Registration/4_1_2 Beneficiary list template.xlsx
+m4,s4,ss02,d01,4-4-02-01,Identification & authentication,GUIDANCE,word,4. Module 4 Implementation/4 Registration/4_2_1 Identification & authentication.docx
+m4,s4,ss02,d02,4-4-02-02,Beneficiary card template,TEMPLATE,pdf,4. Module 4 Implementation/4 Registration/4_2_2 Beneficiary card template.pdf
+m4,s5,ss00,d01,4-5-00-01,Roadmap for CTP distribution and encashment ,ROADMAP,word,4. Module 4 Implementation/5 Distribution/5 Roadmap.docx
+m4,s5,ss01,d01,4-5-01-01,CTP Staff training template,TEMPLATE,ppt,4. Module 4 Implementation/5 Distribution/5_1_1 CTP staff training template.pptx
+m4,s5,ss01,d02,4-5-01-02,CTP training questionnaire template,TEMPLATE,word,4. Module 4 Implementation/5 Distribution/5_1_2 CTP training questionnaire template.docx
+m4,s5,ss01,d03,4-5-01-03,CTP Service provider training template,TEMPLATE,ppt,4. Module 4 Implementation/5 Distribution/5_1_3 CTP Service provider training template.ppt
+m4,s5,ss01,d04,4-5-01-04,Letter to merchant template,TEMPLATE,word,4. Module 4 Implementation/5 Distribution/5_1_4 Letter to merchant template.docx
+m4,s5,ss02,d01,4-5-02-01,Distribution site assessment checklist,CHECKLIST,word,4. Module 4 Implementation/5 Distribution/5_2_1 Distribution site assessment checklist.xlsx
+m4,s5,ss02,d02,4-5-02-02,Distribution site organisation,GUIDANCE,word,4. Module 4 Implementation/5 Distribution/5_2_2 Distribution site organisation.doc
+m4,s5,ss02,d03,4-5-02-03,Distribution list template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_2_3 Distribution list template.xlsx
+m4,s5,ss02,d04,4-5-02-04,Distribution plan template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_2_4 Distribution plan template.xlsx
+m4,s5,ss02,d05,4-5-02-05,Distribution report  template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_2_5 Distribution report template.xlsx
+m4,s5,ss03,d01,4-5-03-01,Encashment agent capacity template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_3_1 Encashment agent capacity template.xlsx
+m4,s5,ss03,d02,4-5-03-02,Encashment time estimation template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_3_2 Encashment time estimation template.xlsx
+m4,s5,ss03,d03,4-5-03-03,Encashment plan template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_3_3 Encashment plan template.xlsx
+m4,s5,ss04,d01,4-5-04-01,Payment order template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_4_1 Payment order template.xls
+m4,s5,ss04,d02,4-5-04-02,Encashment sheet template,TEMPLATE,word,4. Module 4 Implementation/5 Distribution/5_4_2 Encashment sheet template.docx
+m4,s5,ss04,d03,4-5-04-03,Encashment report template,TEMPLATE,excel,4. Module 4 Implementation/5 Distribution/5_4_3 Encashment report template.xlsx
+m5,s0,ss00,d00,5-0-00-00,Module 5 M&E Guide,GUIDANCE,pdf,5. Module 5 M&E/Module 5 Guide.pdf
+m5,s0,ss00,d01,5-0-00-01,Roadmap for M&E,ROADMAP,word,5. Module 5 M&E/1 M&E planning/1 Roadmap.docx
+m5,s1,ss00,d01,5-1-00-01,Roadmap for CTP monitoring and evaluation (M&E) planning ,ROADMAP,word,5. Module 5 M&E/5 Roadmap for M&E.docx
+m5,s1,ss01,d01,5-1-01-01,Logical framework template,TEMPLATE,word,5. Module 5 M&E/1 M&E planning/1_1_1 Logical framework template.doc
+m5,s1,ss01,d02,5-1-01-02,Key CTP indicators checklist,CHECKLIST,word,5. Module 5 M&E/1 M&E planning/1_1_2 Key CTP indicators checklist.docx
+m5,s1,ss01,d03,5-1-01-03,CTP M&E workplan template,TEMPLATE,excel,5. Module 5 M&E/1 M&E planning/1_1_3 CTP M&E workplan template.xlsx
+m5,s1,ss01,d04,5-1-01-04,M&E plan template,TEMPLATE,excel,5. Module 5 M&E/1 M&E planning/1_1_4 M&E plan template.xlsx
+m5,s1,ss01,d05,5-1-01-05,Survey sample calculator template,TEMPLATE,excel,5. Module 5 M&E/1 M&E planning/1_1_5 Survey sample calculator template.xlsx
+m5,s1,ss01,d06,5-1-01-06,Brief sampling guidance,GUIDANCE,word,5. Module 5 M&E/1 M&E planning/1_1_6 Brief sampling guidance.docx
+m5,s1,ss02,d01,5-1-02-01,CTP M&E training template,TEMPLATE,ppt,5. Module 5 M&E/1 M&E planning/1_2_1 CTP M&E training template.pptx
+m5,s1,ss02,d02,5-1-02-02,CTP M&E training facilitator notes template,TEMPLATE,word,5. Module 5 M&E/1 M&E planning/1_2_2 CTP M&E training facilitator notes template - Copy.docx
+m5,s1,ss02,d03,5-1-02-03,FGD guidance,GUIDANCE,word,5. Module 5 M&E/1 M&E planning/1_2_3 FGD guidance.doc
+m5,s1,ss02,d04,5-1-02-04,Guide to HH and KI Interviews,GUIDANCE,word,5. Module 5 M&E/1 M&E planning/1_2_4 Guide to HH & KI interviews.docx
+m5,s2,ss00,d01,5-2-00-01,Roadmap for CTP programme monitoring ,ROADMAP,word,5. Module 5 M&E/2 Programme monitoring/2 Roadmap.docx
+m5,s2,ss01,d01,5-2-01-01,Baseline questionaire template,TEMPLATE,excel,5. Module 5 M&E/2 Programme monitoring/2_1_1 Baseline questionnaire template.xlsx
+m5,s2,ss02,d01,5-2-02-01,Encashment site observation template,TEMPLATE,excel,5. Module 5 M&E/2 Programme monitoring/2_2_1 Encashment site observation template.xls
+m5,s2,ss02,d02,5-2-02-02,Encashment exit survey template,TEMPLATE,word,5. Module 5 M&E/2 Programme monitoring/2_2_2 Encashment exit survey template.docx..docx
+m5,s2,ss02,d03,5-2-02-03,Encashment exit survey database template,TEMPLATE,excel,5. Module 5 M&E/2 Programme monitoring/2_2_3 Encashment exit survey database template.xlsx
+m5,s2,ss03,d01,5-2-03-01,PDM FGD questionnaire template,TEMPLATE,word,5. Module 5 M&E/2 Programme monitoring/2_3_1 PDM FGD questionnaire template.docx
+m5,s2,ss03,d02,5-2-03-02,PDM unconditional CTP survey template,TEMPLATE,word,5. Module 5 M&E/2 Programme monitoring/2_3_2 PDM unconditional CTP survey template.docx
+m5,s2,ss03,d03,5-2-03-03,PDM survey database template,TEMPLATE,excel,5. Module 5 M&E/2 Programme monitoring/2_3_3 PDM unconditional survey database template.xlsx
+m5,s2,ss03,d04,5-2-03-04,PDM conditional CTP survey template,TEMPLATE,excel,5. Module 5 M&E/2 Programme monitoring/2_3_4 PDM conditional CTP survey template.xls
+m5,s3,ss00,d01,5-3-00-01,Roadmap for CTP market monitoring ,ROADMAP,word,5. Module 5 M&E/3 Market monitoring/3 Roadmap.docx
+m5,s3,ss01,d01,5-3-01-01,PDM Market survey template,TEMPLATE,pdf,5. Module 5 M&E/3 Market monitoring/3_1_1 PDM Market survey template.pdf
+m5,s3,ss02,d01,5-3-02-01,Secondary market price data checklist,CHECKLIST,word,5. Module 5 M&E/3 Market monitoring/3_2_1 Secondary market price data checklist.docx
+m5,s3,ss02,d02,5-3-02-02,How to collect market price checklist,CHECKLIST,word,5. Module 5 M&E/3 Market monitoring/3_2_2 How to collect market price checklist.docx
+m5,s3,ss02,d03,5-3-02-03,Price collection form template,TEMPLATE,word,5. Module 5 M&E/3 Market monitoring/3_2_3 Price collection form template.docx
+m5,s3,ss02,d04,5-3-02-04,Organising market price data checklist,CHECKLIST,word,5. Module 5 M&E/3 Market monitoring/3_2_4 Organizing market price data checklist.docx
+m5,s3,ss02,d05,5-3-02-05,Price database template,TEMPLATE,excel,5. Module 5 M&E/3 Market monitoring/3_2_5 Price database template.xls
+m5,s3,ss02,d06,5-3-02-06,Analysing price changes,GUIDANCE,word,5. Module 5 M&E/3 Market monitoring/3_2_6 Analysing price changes.docx
+m5,s3,ss03,d01,5-3-03-01,Responding to price changes,GUIDANCE,word,5. Module 5 M&E/3 Market monitoring/3_3_1 Responding to price changes.docx
+m5,s4,ss00,d01,5-4-00-01,Roadmap for evaluating CTP ,ROADMAP,word,5. Module 5 M&E/4 CTP evaluation/4 Roadmap.docx
+m5,s4,ss01,d01,5-4-01-01,Key questions for evaluating CTP checklist,CHECKLIST,word,5. Module 5 M&E/4 CTP evaluation/4_1_1 Key questions for evaluating CTP checklist.docx
+m5,s4,ss01,d02,5-4-01-02,Evaluating multiplier effects on markets,GUIDANCE,word,5. Module 5 M&E/4 CTP evaluation/4_1_2 Evaluating multiplier effects on markets.docx
+m5,s4,ss02,d01,5-4-02-01,CTP evaluation ToR template,TEMPLATE,word,5. Module 5 M&E/4 CTP evaluation/4_2_1 CTP evaluation ToR template.docx
+m5,s4,ss03,d01,5-4-03-01,CTP Evaluation report template,TEMPLATE,word,5. Module 5 M&E/4 CTP evaluation/4_3_1 CTP Evaluation report template.docx
+m5,s4,ss03,d02,5-4-03-02,IFRC CTP case study template,TEMPLATE,word,5. Module 5 M&E/4 CTP evaluation/4_3_2 IFRC CTP case study template.docx
+m5,s4,ss03,d03,5-4-03-03,IFRC CTP factsheet template,TEMPLATE,word,5. Module 5 M&E/4 CTP evaluation/4_3_3 IFRC CTP factsheet  template.docx
+m5,s4,ss03,d04,5-4-03-04,ICRC case study template,TEMPLATE,word,5. Module 5 M&E/4 CTP evaluation/4_3_4 ICRC case study template.docx
