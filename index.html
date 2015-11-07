@@ -6,8 +6,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
     <link rel="icon" href="img/favicon.ico" type="image/x-icon" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@Federation" />
+    <meta property="og:url" content="http://rcmcash.org/" />
+    <meta property="og:title" content="Cash in Emergencies Toolkit" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Cash transfer based programming (CTP) is an effective and flexible way to support people affected by emergencies, maintaining their dignity and choice, while fostering local economies. CTP includes all forms of cash and voucher-based assistance. The Cash in Emergencies Toolkit has been devised as a means to make tools, practical guidance and minimum standards easily accessible to staff and volunteers." />
+    <meta property="og:image" content="https://raw.githubusercontent.com/AmericanRedCross/ctp-toolkit/gh-pages/img/og-img.jpg" />
 
     <title>Cash in Emergencies Toolkit</title>
 
@@ -18,7 +25,7 @@
     <link href="css/grayscale.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
@@ -304,7 +311,10 @@
                 <h2>Feedback</h2>
                 <p>The Cash in Emergencies Toolkit has been based on tools, guidance and experience both from within the International Red Cross and Red Crescent Movement and from other humanitarian organisations.</p>
                 <p>Suggestions for improvement of tools are welcome and shall inform the periodic update of the Toolkit.</p>
-                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-comment-o fa-fw"></i> Feedback Form</a>
+                <a href="https://docs.google.com/forms/d/15vPIZJwqUi0LP_6q6JMujlVHaEBDAH9uc1s6EVLWYKE/viewform?usp=send_form" class="btn btn-default btn-lg"><i class="fa fa-comment-o fa-fw"></i> Feedback Form</a>
+                <a href="http://twitter.com/intent/tweet?status=Cash in Emergencies Toolkit: http://rcmcash.org/ via @Federation" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> Tweet</a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Frcmcash.org%2F" class="btn btn-default btn-lg"><i class="fa fa-facebook-official"></i> Share on Facebook</a>
+
             </div>
         </div>
       </div>
@@ -357,6 +367,23 @@
 
     <!-- page build JavaScript -->
     <script src="js/toolkit.js"></script>
+
+    <script>window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+          t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function(f) {
+          t._e.push(f);
+        };
+
+        return t;
+      }(document, "script", "twitter-wjs"));</script>
 
     <!-- Google analytics -->
     <script>
