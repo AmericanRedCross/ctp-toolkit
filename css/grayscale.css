@@ -268,6 +268,10 @@ a:focus {
     background-color: #f5f5f5;
 }
 
+.dark-text {
+  color: #000;
+}
+
 .feedback-section {
     width: 100%;
     padding: 50px 0;
@@ -520,7 +524,7 @@ a.substep-name:focus {
   margin-bottom: 10px
 }
 .document-link a {
-    color: #777;
+    color: #4C4C4C;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -616,6 +620,10 @@ body {
 
 .panel-title-custom {
   margin-bottom: 16px;
+}
+.modal-title-custom {
+  margin-bottom: 16px;
+  margin-top: 24px;
 }
 .links-group {
   text-align: left;

@@ -67,6 +67,9 @@ function buildDocumentLinks(){
             case 'ppt':
               documentHtml += '<i class="fa fa-file-powerpoint-o"></i>';
               break;
+            case 'video':
+              documentHtml += '<i class="fa fa-file-video-o"></i>';
+              break;
             default:
               break;
           }
