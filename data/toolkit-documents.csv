@@ -84,7 +84,7 @@ m2,s3,ss02,d03,2-3-02-03,Summary of findings per market template,TEMPLATE,word,2
 m2,s3,ss02,d04,2-3-02-04,Traders in voucher programmes checklist,CHECKLIST,word,2. Module 2 Assessment/3 Rapid market assessment/3_2_4 Traders in voucher programmes checklist.docx
 m2,s3,ss03,d01,2-3-03-01,Conclusion tree to assess market response capacity,GUIDANCE,word,2. Module 2 Assessment/3 Rapid market assessment/3_3_1 Conclusion tree to assess market response capacity.docx
 m2,s3,ss03,d02,2-3-03-02,Market assessment report template,TEMPLATE,word,2. Module 2 Assessment/3 Rapid market assessment/3_3_2 Market assessment report template.docx
-m2,s4,ss00,d01,2-4-00-01,"Roadmap for service providers: capacity, organizational capacity and risk analysis",ROADMAP,,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4  Roadmap.docx"
+m2,s4,ss00,d01,2-4-00-01,"Roadmap for service providers: capacity,organizational capacity and risk analysis",ROADMAP,,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4  Roadmap.docx"
 m2,s4,ss01,d01,2-4-01-01,Assessing financial services: topics and sources,TEMPLATE,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_1_1 Assessing FS topics and sources template.xlsx"
 m2,s4,ss01,d02,2-4-01-02,Assess service providers capacity checklist,CHECKLIST,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_1_2 Assess FSP capacity checklist.docx"
 m2,s4,ss01,d03,2-4-01-03,Mapping service providers template,TEMPLATE,word,"2. Module 2 Assessment/4 Service providers, organizational capacity and risk analysis/4_1_3 Mapping service providers template.docx"
@@ -213,7 +213,7 @@ m6,s0,ss00,d01,6-0-00-01,ICRC CTP SOPS presentation,RCRC Movement key docs,pdf,6
 m6,s0,ss00,d02,6-0-00-02,ICRC CTP SOPs,RCRC Movement key docs,pdf,6. RCRC Movement key docs/ICRC CTP SOP 2015.pdf
 m6,s0,ss00,d03,6-0-00-03,IFRC CBP SOPs,RCRC Movement key docs,pdf,6. RCRC Movement key docs/IFRC CBP SOPs_EN.pdf
 m6,s0,ss00,d04,6-0-00-04,RCRCM CTP Guidelines,RCRC Movement key docs,pdf,6. RCRC Movement key docs/RCRCM CTP Guidelines_EN.pdf
-m6,s0,ss00,d05,6-0-00-05,RCRCM CTP Preparedness guidnace,RCRC Movement key docs,pdf,6. RCRC Movement key docs/RCRCM CTP Preparedness guidance.pdf
+m6,s0,ss00,d05,6-0-00-05,RCRCM CTP Preparedness guidance,RCRC Movement key docs,pdf,6. RCRC Movement key docs/RCRCM CTP Preparedness guidance.pdf
 m6,s0,ss00,d06,6-0-00-06,RCRCM Market analysis guidance,RCRC Movement key docs,pdf,6. RCRC Movement key docs/RCRCM MAG_EN.pdf
 m6,s0,ss00,d07,6-0-00-07,RCRCM Rapid assessment for markets,RCRC Movement key docs,pdf,6. RCRC Movement key docs/RCRCM RAM_EN.pdf
 m7,s1,ss00,d01,7-1-00-01,IFRC Contingency planning guide for WG,REFERENCE BOX,word,7. Reference Box/1. Preparedness/IFRC Contigency planning guide for WG.doc
